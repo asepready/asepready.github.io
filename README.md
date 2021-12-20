@@ -1,2 +1,2 @@
 # BootstrapUI
-Bootstrap HTML template created by Bootstrap
+Bootstrap 5 HTML template created by Bootstrap
