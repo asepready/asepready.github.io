@@ -9,7 +9,7 @@ cd /var/www/shamo
 sudo chown -R www-data.www-data /var/www/shamo/storage
 sudo chown -R www-data.www-data /var/www/shamo/bootstrap/cache
 
-sudo cat << 'EOF' > /etc/nginx/sites-available/shamo
+cat << 'EOF' > /etc/nginx/sites-available/shamo
 #/etc/nginx/sites-available/shamo
 
 server {

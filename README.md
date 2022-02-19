@@ -14,5 +14,6 @@ bash lempstack.sh
 ## 1. shamo
 
 ```
-
+curl -o shamo.sh https://raw.githubusercontent.com/asepready/asepready.github.io/main/deploy/shamo.sh
+bash lempstack.sh
 ```
