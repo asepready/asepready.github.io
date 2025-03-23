@@ -1,0 +1,19 @@
+1. RACE (Role, Action, Context, Expectation)
+Kerangka kerja RACE sederhana, manis, dan efisien dalam menciptakan petunjuk yang dapat disesuaikan untuk beberapa tugas pemasaran. Mari kita bahas komponen-komponennya:
+    - Peran: Tentukan karakter yang Anda inginkan untuk dimainkan oleh ChatGPT. Haruskah ia seorang pemasar media sosial yang ahli dan copywriter email?
+    - Action: Ini adalah instruksi dasar atau pekerjaan yang harus Anda lakukan.
+    - Konteks: Biasanya ada informasi latar belakang yang perlu Anda berikan agar ChatGPT dapat memenuhi instruksi tersebut.
+    - Harapan: Jelaskan hasil yang Anda butuhkan
+
+Berikut ini adalah contoh komponen kerangka kerja ini dalam tindakan:
+
+Peran: “Anda adalah seorang ahli devops engineer yang berspesialisasi dalam membangun infrastruktur pemerintahan.”
+Tindakan: “Kembangkan dan deploy wazuh pada docker ke podman.”
+Konteks: “Pemerintahan ingin pembaruan kontainer dari docker ke podman, menargetkan agar kontainer yang bener-benar aman. Tujuan utamanya adalah meningkatkan keamanan infrastruktur yang ditargetkan untuk pemerintahan.”
+Harapan: “Kontainer ini harus bisa digunakan terus menerus.”
+
+
+Peran: “Anda adalah seorang Asesor.”
+Tindakan: “Pengujian mahasiswa dari lampiran surat tersebut pengujian kompetensi yang baik dan benar.”
+Konteks: “Dari Sekolah ingin menguji kompetensi siswa.”
+Harapan: “Siswa/siswi lulusan dengan kompetensi standart perusahaan.”
